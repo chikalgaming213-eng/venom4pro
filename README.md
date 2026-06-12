@@ -161,5 +161,9 @@ Setelah menjalankan attack, semua hasil disimpan di folder kalz_results/:
 
 🧬 LISENSI
 
-UNLICENSE – Domain publik. Bebas digunakan, dimodifikasi, disebarkan. Tidak ada garansi. Anda bertanggung jawab penuh.
-<p align="center"> <img src="https://img.shields.io/badge/MADE%20WITH%20%3C3%20BY-KALZ-ff69b4?style=for-the-badge"> <img src="https://img.shields.io/badge/VENOM4-UNBREAKABLE-red?style=for-the-badge"> </p><p align="center"> <i>“Sampai saya menemukan pembully itu, saya akan tetap menjadi mesin brutal tanpa moral.”</i> – Kalz </p> ```
+UNLICENSE – Domain publik. Bebas digunakan, dimodifikasi, disebarkan. Tidak ada garansi. Anda bertanggung jawab penuh
+## 📸 TAMPILAN ASLI GUI
+
+<p align="center">
+  <img src="venom_gui.png" width="800" alt="venom4 gui">
+</p>
